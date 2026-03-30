@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EcoSphere: Circular Waste Assistant",
+  "description": "An AI-powered application to reduce global waste through intelligent sorting, circularity suggestions, and impact tracking based on the World Bank\u0027s \u0027What a Waste 3.0\u0027 report.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
